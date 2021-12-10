@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kessler-yaron
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming for job interview
-- 💞️ I’m looking to collaborate on ✨ special math game ✨ that help people remmber math formulas easly as magic.
-- 📫 How to reach me ... soon, as i finish making the first planing draft of this idea.
-
-<!--- Have a nice day :) --->
+- 👋 Hi, 
+- ✨ I’m @kessler-yaron  ✨
+- 👀 I’m a programmer/developerd.  ✨
+- 🌱 My goal is To Learn something new everyday.  ✨
+- 💞️ Hope this repository will be useful  ✨
+- 📫 Israel, Tel-Aviv.
